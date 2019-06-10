@@ -1,1 +1,0 @@
-document.writeln("		<script type=\'text/javascript\' charset=\'utf-8\' src=\'img/121212.png\'></script>");
